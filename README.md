@@ -15,5 +15,9 @@
      <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
      <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius555&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+Apaixonado por tecnologia e programação.😊
 
