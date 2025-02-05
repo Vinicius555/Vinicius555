@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá! Eu sou Vinicius Gabriel Silva Guilherme, um entusiasta da tecnologia apaixonado por desenvolvimento de software e administração de sistemas. Atualmente, estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas pela Faculdade <a href="https://portal.uniasselvi.com.br/" target="_blank">Uniasselvi</a>, e possuo formação técnica como Técnico em Desenvolvimento de Sistemas pela <a href="https://sisacad.educacao.pe.gov.br/sissel/seip/index.php?p=polo&id=94" target="_blank">ETE de Arcoverde</a>.<br>
-
+Olá! Eu sou Vinicius Gabriel Silva Guilherme, um entusiasta da tecnologia apaixonado por desenvolvimento de software e administração de sistemas. Atualmente, estou concluindo minha pós-graduação em **segurança da informação** pela Faculdade <a href="https://portal.uniasselvi.com.br/" target="_blank">Uniasselvi</a>, e possuo formação em **Análise e Desenvolvimento de Sistemas**, além de formação técnica em **Desenvolvimento de Sistemas** pela <a href="https://sisacad.educacao.pe.gov.br/sissel/seip/index.php?p=polo&id=94" target="_blank">ETE de Arcoverde</a>.<br>
 
 # Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniicius.dev@gmail.com) <a href="https://www.linkedin.com/in/vinicius-silva-12a211128/" style="display:inline-block; overflow:hidden;">
